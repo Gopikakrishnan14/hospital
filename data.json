@@ -1,0 +1,7 @@
+[           {"name":"GHS","Patientcount":25000,"location":"tvm"},
+            {"name":"AJK","Patientcount":55000,"location":"kollam"},
+            {"name":"PRS","Patientcount":500000,"location":"ernakulam"},
+            {"name":"NIMS","Patientcount":100000,"location":"Kozhikode"},
+            {"name":"KIMS","Patientcount":45000,"location":"kannur"}
+                
+]
